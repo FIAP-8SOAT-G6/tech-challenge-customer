@@ -1,5 +1,8 @@
 # Tech Challenge | Customer Microservice
 
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=FIAP-8SOAT-G6_tech-challenge-customer&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=FIAP-8SOAT-G6_tech-challenge-customer)
+[![Coverage](https://sonarcloud.io/api/project_badges/measure?project=FIAP-8SOAT-G6_tech-challenge-customer&metric=coverage)](https://sonarcloud.io/summary/new_code?id=FIAP-8SOAT-G6_tech-challenge-customer)
+
 Esse microsserviço é reponsável pelo cadastro e busca de clientes.
 A finalidade é a utilização dos registros na criação e gerenciamento dos pedidos no Tech Challenge Lanchonete.
 
